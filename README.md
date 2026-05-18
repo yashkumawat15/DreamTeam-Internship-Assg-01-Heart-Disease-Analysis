@@ -105,4 +105,4 @@ The notebook covers:
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is for educational purposes. The dataset is synthetically generated and does not contain any real disease data.
