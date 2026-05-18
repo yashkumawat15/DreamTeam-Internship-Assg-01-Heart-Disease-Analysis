@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Exploratory Data Analysis
+# 🫀 Heart Disease Analysis-Assignment 1
 
 An exploratory data analysis (EDA) project on the **Cleveland Heart Disease dataset**, uncovering patterns and risk factors associated with heart disease through statistical summaries and visualizations.
 
