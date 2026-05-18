@@ -1,5 +1,10 @@
 # 🫀 Heart Disease Analysis-Assignment 1
 
+---
+
+## 📌 Overview
+
+---
 An exploratory data analysis (EDA) project on the **Cleveland Heart Disease dataset**, uncovering patterns and risk factors associated with heart disease through statistical summaries and visualizations.
 
 ---
@@ -87,6 +92,15 @@ The notebook covers:
 - Age groups and sex show notable differences in chest pain type and maximum heart rate.
 - Correlation heatmaps reveal meaningful relationships between `cp`, `thalach`, `exang`, and the target variable.
 - Feature engineering on age improves interpretability for downstream classification tasks.
+
+---
+
+## 👤 Author
+
+**Yash Kumawat**
+
+- LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/yash-kumawat-02559629a)
+- GitHub: [github.com/your-username](https://github.com/yashkumawat15)
 
 ---
 
