@@ -98,8 +98,7 @@ The notebook covers:
 
 **Yash Kumawat**
 
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/yash-kumawat-02559629a/)
-- GitHub: [github.com/your-username](https://github.com/yashkumawat15)
+- LinkedIn: [linkedin.com/in/yash-kumawat15](https://www.linkedin.com/in/yash-kumawat15)
 
 ---
 
